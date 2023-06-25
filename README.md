@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirbhay Thakkar</h1>
 <h3 align="center">Transforming Data into Actionable Intelligence</h3>
 
-- 💬 Ask me about **SQL, SSIS, Microsoft Excel**
+- 💬 Ask me about **SQL, SSIS, Microsoft Excel, Tableau, Python**
 
 - 📫 How to reach me **nirbhay.thakkar28@gmail.com**
 
